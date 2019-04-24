@@ -50,7 +50,7 @@ Gra w odtwarzanie sekwencji do poprawy pamięci
 Gra z tablą wyników, mapami itp.
 
 ### Tamagotchi
-https://pl.wikipedia.org/wiki/Tamagotchi w wersji Webowej
+https://pl.wikipedia.org/wiki/Tamagotchi w wersji Webowej [Tomasz Lewandowski]
 
 ## Symulacje i edukacja
 
