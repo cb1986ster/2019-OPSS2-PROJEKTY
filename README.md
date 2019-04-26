@@ -33,7 +33,7 @@ Inspirowane klasyczną grą komputerową https://www.youtube.com/watch?v=d7ynbeJ
 - Zapis wyników na serwerze wyników, prosta lista rankingowa.
 
 ### "Milionerzy"
-Inspirowane teleturniejem "Milionerzy"
+Inspirowane teleturniejem "Milionerzy" [Mateusz Manerowski]
 - Interfejs gracza,
 - Interfejs administratora do wprowadzania pytań,
 - Zapis wyników na serwerze wyników, prosta lista rankingowa.
@@ -47,7 +47,7 @@ Gra w odtwarzanie sekwencji do poprawy pamięci
 - Zapis wyników na serwerze wyników, prosta lista rankingowa.
 
 ### Wąż/Tron
-Gra z tablą wyników, mapami itp.
+Gra z tablą wyników, mapami itp. [Konrad Marciniak]
 
 ### Tamagotchi
 https://pl.wikipedia.org/wiki/Tamagotchi w wersji Webowej [Tomasz Lewandowski]
