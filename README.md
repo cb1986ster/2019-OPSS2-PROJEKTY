@@ -39,7 +39,7 @@ Inspirowane teleturniejem "Milionerzy" [Mateusz Manerowski]
 - Zapis wyników na serwerze wyników, prosta lista rankingowa.
 
 ### Klikacz studencki
-Inspirowana tworami typu [Cookie Clicker](http://orteil.dashnet.org/cookieclicker/) gra w klimatach WFAiIS.
+Inspirowana tworami typu [Cookie Clicker](http://orteil.dashnet.org/cookieclicker/) gra w klimatach WFAiIS. [Tomasz Głowacki]
 
 ### Memo
 Gra w odtwarzanie sekwencji do poprawy pamięci
