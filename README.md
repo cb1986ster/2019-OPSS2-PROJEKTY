@@ -52,6 +52,16 @@ Gra z tablą wyników, mapami itp. [Konrad Marciniak]
 ### Tamagotchi
 https://pl.wikipedia.org/wiki/Tamagotchi w wersji Webowej [Tomasz Lewandowski]
 
+
+### Aim & reflex trainer 
+- 2 tryby do wyboru (aim lub reflex):
+ - Reflex ma testować ludzki czas reakcji,
+ - Aim ma trenować celność trafień myszką.
+- Możliwość wyboru koloru celu
+- Różne poziomy trudności
+- Wyniki zapisywane na serwerze(w formie listy rankingowej)
+*Projekt na życzenie* [Bartosz Piekarski]
+
 ## Symulacje i edukacja
 
 ### Interaktywne symulacje popularnych algorytmów komputerowych
