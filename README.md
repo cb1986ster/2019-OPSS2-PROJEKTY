@@ -42,7 +42,7 @@ Inspirowane teleturniejem "Milionerzy" [Mateusz Manerowski]
 Inspirowana tworami typu [Cookie Clicker](http://orteil.dashnet.org/cookieclicker/) gra w klimatach WFAiIS. [Tomasz Głowacki]
 
 ### Memo
-Gra w odtwarzanie sekwencji do poprawy pamięci
+Gra w odtwarzanie sekwencji do poprawy pamięci [Mateusz Czarnecki]
 - Wybór poziomu trudności i oprawy graficznej,
 - Zapis wyników na serwerze wyników, prosta lista rankingowa.
 
