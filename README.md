@@ -11,7 +11,7 @@
 
 ## Gry
 ### Czołgi
-Inspirowane klasyczną 8-bitowa grą komputerową [Tanks](https://www.youtube.com/watch?v=fe3oO3zMWWk).
+Inspirowane klasyczną 8-bitowa grą komputerową [Tanks](https://www.youtube.com/watch?v=fe3oO3zMWWk) [Jędrzej Mniecznikowski]
 - Kontrolowanie obiektu czołgu,
 - Tryb jednego gracza: proste IA z losowy poruszaniem się przeciwników,
 - Tryb dwóch(lub więcej) graczy: gra na jednym komputerze,
@@ -26,7 +26,7 @@ Inspirowane klasyką gier komputerowych np. https://www.youtube.com/watch?v=3luU
 - Zapis wyników na serwerze wyników, prosta lista rankingowa.
 
 ### FrozenBuubles
-Inspirowane klasyczną grą komputerową https://www.youtube.com/watch?v=d7ynbeJvKsI
+Inspirowane klasyczną grą komputerową https://www.youtube.com/watch?v=d7ynbeJvKsI [Korneliusz Łożyński]
 - Kontrolowanie wyrzutni,
 - Tryb jednego gracza,
 - Tryb PVP - gracze przeciw sobie,
