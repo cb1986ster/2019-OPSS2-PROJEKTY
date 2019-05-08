@@ -123,4 +123,7 @@ Narzędzie dla Polskiej Stacji Polarnej H. Arctowski.
 Narzędzie dla Polskiej Stacji Polarnej H. Arctowski.
 
 ### Menager rekrutacji do pracy
-Narzędzie dla Polskiej Stacji Polarnej H. Arctowski. [Przemysław Banaszek]
+Narzędzie dla Polskiej Stacji Polarnej H. Arctowski.
+
+### Wynajem mieszkań
+[Przemysław Banaszek]
