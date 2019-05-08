@@ -68,6 +68,8 @@ https://pl.wikipedia.org/wiki/Tamagotchi w wersji Webowej [Tomasz Lewandowski]
 ### "Postaw na milion"
 [Jakub Eichberger]
 
+### Flapy birds
+[Przemysław Frydrych]
 
 ## Symulacje i edukacja
 
