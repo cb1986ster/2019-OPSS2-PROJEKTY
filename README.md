@@ -18,7 +18,7 @@ Inspirowane klasyczną 8-bitowa grą komputerową [Tanks](https://www.youtube.co
 - Zapis wyników na serwerze wyników, prosta lista rankingowa.
 
 ### Arkanoid
-Inspirowane klasyką gier komputerowych np. https://www.youtube.com/watch?v=3luUb7WEm7k
+Inspirowane klasyką gier komputerowych np. https://www.youtube.com/watch?v=3luUb7WEm7k [Krzysztof Łubkowski]
 - Kontrolowanie paletki,
 - Tryb jednego gracza,
 - Tryb PVP - gracze przeciw sobie,
