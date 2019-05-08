@@ -46,8 +46,11 @@ Gra w odtwarzanie sekwencji do poprawy pamięci [Mateusz Czarnecki]
 - Wybór poziomu trudności i oprawy graficznej,
 - Zapis wyników na serwerze wyników, prosta lista rankingowa.
 
-### Wąż/Tron
+### Wąż
 Gra z tablą wyników, mapami itp. [Konrad Marciniak]
+
+### Tron
+[Kamil Jankowski]
 
 ### Tamagotchi
 https://pl.wikipedia.org/wiki/Tamagotchi w wersji Webowej [Tomasz Lewandowski]
