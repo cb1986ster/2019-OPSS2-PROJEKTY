@@ -62,6 +62,10 @@ https://pl.wikipedia.org/wiki/Tamagotchi w wersji Webowej [Tomasz Lewandowski]
 - Wyniki zapisywane na serwerze(w formie listy rankingowej)
 *Projekt na życzenie* [Bartosz Piekarski]
 
+### "Postaw na milion"
+[Jakub Eichberger]
+
+
 ## Symulacje i edukacja
 
 ### Interaktywne symulacje popularnych algorytmów komputerowych
