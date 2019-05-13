@@ -129,3 +129,6 @@ Narzędzie dla Polskiej Stacji Polarnej H. Arctowski.
 
 ### Wynajem mieszkań
 [Przemysław Banaszek]
+
+### Strona Pizzeri 
+[Patryk Barański]
