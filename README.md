@@ -71,6 +71,9 @@ https://pl.wikipedia.org/wiki/Tamagotchi w wersji Webowej [Tomasz Lewandowski]
 ### Flapy birds
 [Przemysław Frydrych]
 
+### Planszówka - chińczyk
+[Adrian Bartnicki]
+
 ## Symulacje i edukacja
 
 ### Interaktywne symulacje popularnych algorytmów komputerowych
