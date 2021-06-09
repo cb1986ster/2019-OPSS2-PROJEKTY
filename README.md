@@ -11,14 +11,14 @@
 
 ## Gry
 ### Czołgi
-Inspirowane klasyczną 8-bitowa grą komputerową [Tanks](https://www.youtube.com/watch?v=fe3oO3zMWWk).
+Inspirowane klasyczną 8-bitowa grą komputerową [Tanks](https://www.youtube.com/watch?v=fe3oO3zMWWk) [Jędrzej Mniecznikowski]
 - Kontrolowanie obiektu czołgu,
 - Tryb jednego gracza: proste IA z losowy poruszaniem się przeciwników,
 - Tryb dwóch(lub więcej) graczy: gra na jednym komputerze,
 - Zapis wyników na serwerze wyników, prosta lista rankingowa.
 
 ### Arkanoid
-Inspirowane klasyką gier komputerowych np. https://www.youtube.com/watch?v=3luUb7WEm7k
+Inspirowane klasyką gier komputerowych np. https://www.youtube.com/watch?v=3luUb7WEm7k [Krzysztof Łubkowski]
 - Kontrolowanie paletki,
 - Tryb jednego gracza,
 - Tryb PVP - gracze przeciw sobie,
@@ -26,31 +26,53 @@ Inspirowane klasyką gier komputerowych np. https://www.youtube.com/watch?v=3luU
 - Zapis wyników na serwerze wyników, prosta lista rankingowa.
 
 ### FrozenBuubles
-Inspirowane klasyczną grą komputerową https://www.youtube.com/watch?v=d7ynbeJvKsI
+Inspirowane klasyczną grą komputerową https://www.youtube.com/watch?v=d7ynbeJvKsI [Korneliusz Łożyński]
 - Kontrolowanie wyrzutni,
 - Tryb jednego gracza,
 - Tryb PVP - gracze przeciw sobie,
 - Zapis wyników na serwerze wyników, prosta lista rankingowa.
 
 ### "Milionerzy"
-Inspirowane teleturniejem "Milionerzy"
+Inspirowane teleturniejem "Milionerzy" [Mateusz Manerowski]
 - Interfejs gracza,
 - Interfejs administratora do wprowadzania pytań,
 - Zapis wyników na serwerze wyników, prosta lista rankingowa.
 
 ### Klikacz studencki
-Inspirowana tworami typu [Cookie Clicker](http://orteil.dashnet.org/cookieclicker/) gra w klimatach WFAiIS.
+Inspirowana tworami typu [Cookie Clicker](http://orteil.dashnet.org/cookieclicker/) gra w klimatach WFAiIS. [Tomasz Głowacki]
 
 ### Memo
-Gra w odtwarzanie sekwencji do poprawy pamięci
+Gra w odtwarzanie sekwencji do poprawy pamięci [Mateusz Czarnecki]
 - Wybór poziomu trudności i oprawy graficznej,
 - Zapis wyników na serwerze wyników, prosta lista rankingowa.
 
-### Wąż/Tron
-Gra z tablą wyników, mapami itp.
+### Wąż
+Gra z tablą wyników, mapami itp. [Konrad Marciniak]
+
+### Tron
+[Kamil Jankowski]
 
 ### Tamagotchi
-https://pl.wikipedia.org/wiki/Tamagotchi w wersji Webowej
+https://pl.wikipedia.org/wiki/Tamagotchi w wersji Webowej [Tomasz Lewandowski]
+
+
+### Aim & reflex trainer 
+- 2 tryby do wyboru (aim lub reflex):
+ - Reflex ma testować ludzki czas reakcji,
+ - Aim ma trenować celność trafień myszką.
+- Możliwość wyboru koloru celu
+- Różne poziomy trudności
+- Wyniki zapisywane na serwerze(w formie listy rankingowej)
+*Projekt na życzenie* [Bartosz Piekarski]
+
+### "Postaw na milion"
+[Jakub Eichberger]
+
+### Flapy birds
+[Przemysław Frydrych]
+
+### Planszówka - chińczyk
+[Adrian Bartnicki]
 
 ## Symulacje i edukacja
 
@@ -107,3 +129,12 @@ Narzędzie dla Polskiej Stacji Polarnej H. Arctowski.
 
 ### Menager rekrutacji do pracy
 Narzędzie dla Polskiej Stacji Polarnej H. Arctowski.
+
+### Wynajem mieszkań
+[Przemysław Banaszek]
+
+### Strona Pizzeri 
+[Patryk Barański]
+
+### Balisto 
+[Jędrzej Janczak]
